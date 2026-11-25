@@ -16,4 +16,7 @@ it then returns the corrected data set in a csv format and displays it with mat 
  - finally input the error threshold value                    ex. 5
 
 # Example
+This shows the example file cleaned with an error threshold of about 5% 
 
+![uncleaned data](Screenshot 2026-11-24 010415.png)
+![cleaned data](Screenshot 2026-11-24 010620.png)
