@@ -20,3 +20,7 @@ This shows the example file cleaned with an error threshold of about 5%
 
 <img src="images/uncleaned.png" alt="uncleaned data" width="400">
 <img src="images/cleaned.png" alt="cleaned data" width="400">
+
+# further history
+
+for those of you curious on what lab we were doing, it was dissolving pieces of CaCO3 in HCl, the pieces were about 0.5g and the we used about 10ml of HCl per trial and we were tasked with finding the order of the rate of the reaction, the order was not exactly but with relative certainty 0.
