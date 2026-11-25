@@ -18,5 +18,5 @@ it then returns the corrected data set in a csv format and displays it with mat 
 # Example
 This shows the example file cleaned with an error threshold of about 5% 
 
-![uncleaned data](images/Screenshot 2026-11-24 010415.png)
-![cleaned data](images/Screenshot 2026-11-24 010620.png)
+![uncleaned data](images/uncleaned.png)
+![cleaned data](images/cleaned.png)
