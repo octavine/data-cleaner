@@ -18,5 +18,5 @@ it then returns the corrected data set in a csv format and displays it with mat 
 # Example
 This shows the example file cleaned with an error threshold of about 5% 
 
-![uncleaned data](images/uncleaned.png)
-![cleaned data](images/cleaned.png)
+<img src="images/uncleaned.png" alt="uncleaned data" width="400">
+<img src="images/cleaned.png" alt="cleaned data" width="400">
